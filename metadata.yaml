@@ -1,0 +1,39 @@
+_repo: Unknown-to-History--A-Story-of-the-Captivity-of-Mary-of-Scotland_4596
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: According to some accounts, Mary Queen of Scots bore a child to her last
+  husband, the earl of Bothwell, while imprisoned at Loch Leven. In Unknown to History,
+  C.M. Yonge weaves the story of this child, linking it with that of her mother. The
+  Author tells us that In Miss Strickland's Life of Mary Queen of Scots (and in Burton's
+  History of Scotland) a report may be found on which this tale is based. This is
+  a fascinating and enthralling story of royalty, plot and intrigue, and was originally
+  pu.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Queens -- Scotland -- Fiction'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Scotland -- History -- Mary Stuart, 1542-1567 -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Mary, Queen of Scots, 1542-1587 -- Fiction'
+- GITenberg
+title: 'Unknown to History: A Story of the Captivity of Mary of Scotland'
+url: http://www.gutenberg.org/ebooks/4596
