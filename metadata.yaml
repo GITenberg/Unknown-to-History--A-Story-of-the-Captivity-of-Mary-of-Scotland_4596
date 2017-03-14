@@ -1,5 +1,8 @@
 _repo: Unknown-to-History--A-Story-of-the-Captivity-of-Mary-of-Scotland_4596
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -18,6 +21,8 @@ description: According to some accounts, Mary Queen of Scots bore a child to her
   History of Scotland) a report may be found on which this tale is based. This is
   a fascinating and enthralling story of royalty, plot and intrigue, and was originally
   pu.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4596#Unknown-to-History--A-Story-of-the-Captivity-of-Mary-of-Scotland
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
